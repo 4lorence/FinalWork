@@ -1,0 +1,15 @@
+D:\Education\Finalwork\obj\Debug\net6.0\Finalwork.csproj.AssemblyReference.cache
+D:\Education\Finalwork\obj\Debug\net6.0\Finalwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Finalwork\obj\Debug\net6.0\Finalwork.AssemblyInfoInputs.cache
+D:\Education\Finalwork\obj\Debug\net6.0\Finalwork.AssemblyInfo.cs
+D:\Education\Finalwork\obj\Debug\net6.0\Finalwork.csproj.CoreCompileInputs.cache
+D:\Education\Finalwork\bin\Debug\net6.0\Finalwork.exe
+D:\Education\Finalwork\bin\Debug\net6.0\Finalwork.deps.json
+D:\Education\Finalwork\bin\Debug\net6.0\Finalwork.runtimeconfig.json
+D:\Education\Finalwork\bin\Debug\net6.0\Finalwork.dll
+D:\Education\Finalwork\bin\Debug\net6.0\Finalwork.pdb
+D:\Education\Finalwork\obj\Debug\net6.0\Finalwork.dll
+D:\Education\Finalwork\obj\Debug\net6.0\refint\Finalwork.dll
+D:\Education\Finalwork\obj\Debug\net6.0\Finalwork.pdb
+D:\Education\Finalwork\obj\Debug\net6.0\Finalwork.genruntimeconfig.cache
+D:\Education\Finalwork\obj\Debug\net6.0\ref\Finalwork.dll
